@@ -134,6 +134,33 @@ NCDE201812,11,New York,NCDE,New Castle,201812,R,R,R,S,R,R,3,3,3
 NCDE201901,11,New York,NCDE,New Castle,201901,R,Q,Q,R,R,R,3,3,3
 NCDE201902,11,New York,NCDE,New Castle,201902,R,R,R,S,Q,R,3,3,3
 NCDE201903,11,New York,NCDE,New Castle,201903,R,R,R,R,Q,R,3,3,3
+NJSC201701,11,New York,NJSC,New Jersey Service Center,201701,P,nan,nan,P,P,nan,nan,nan,nan
+NJSC201702,11,New York,NJSC,New Jersey Service Center,201702,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201703,11,New York,NJSC,New Jersey Service Center,201703,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201704,11,New York,NJSC,New Jersey Service Center,201704,P,S,S,P,S,nan,nan,nan,nan
+NJSC201705,11,New York,NJSC,New Jersey Service Center,201705,P,S,S,P,R,nan,nan,nan,nan
+NJSC201706,11,New York,NJSC,New Jersey Service Center,201706,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201707,11,New York,NJSC,New Jersey Service Center,201707,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201708,11,New York,NJSC,New Jersey Service Center,201708,P,S,S,P,S,nan,nan,nan,nan
+NJSC201709,11,New York,NJSC,New Jersey Service Center,201709,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201710,11,New York,NJSC,New Jersey Service Center,201710,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201711,11,New York,NJSC,New Jersey Service Center,201711,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201712,11,New York,NJSC,New Jersey Service Center,201712,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201801,11,New York,NJSC,New Jersey Service Center,201801,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201802,11,New York,NJSC,New Jersey Service Center,201802,P,nan,S,P,nan,nan,nan,nan,nan
+NJSC201803,11,New York,NJSC,New Jersey Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201804,11,New York,NJSC,New Jersey Service Center,201804,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201805,11,New York,NJSC,New Jersey Service Center,201805,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201806,11,New York,NJSC,New Jersey Service Center,201806,P,S,S,P,P,nan,nan,nan,nan
+NJSC201807,11,New York,NJSC,New Jersey Service Center,201807,P,nan,S,P,nan,nan,nan,nan,nan
+NJSC201808,11,New York,NJSC,New Jersey Service Center,201808,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201809,11,New York,NJSC,New Jersey Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201810,11,New York,NJSC,New Jersey Service Center,201810,P,S,S,P,R,nan,nan,nan,nan
+NJSC201811,11,New York,NJSC,New Jersey Service Center,201811,P,S,S,P,P,nan,nan,nan,nan
+NJSC201812,11,New York,NJSC,New Jersey Service Center,201812,P,S,nan,P,nan,nan,nan,nan,nan
+NJSC201901,11,New York,NJSC,New Jersey Service Center,201901,P,S,S,P,Q,nan,nan,nan,nan
+NJSC201902,11,New York,NJSC,New Jersey Service Center,201902,P,S,S,P,P,nan,nan,nan,nan
+NJSC201903,11,New York,NJSC,New Jersey Service Center,201903,P,S,nan,P,nan,nan,nan,nan,nan
 PHPA201701,11,New York,PHPA,Philadelphia,201701,P,P,P,P,R,P,1,1,2
 PHPA201702,11,New York,PHPA,Philadelphia,201702,P,P,P,P,Q,P,1,1,1
 PHPA201703,11,New York,PHPA,Philadelphia,201703,P,P,P,P,R,P,1,1,2
@@ -458,6 +485,33 @@ WOMA201812,12,Boston,WOMA,Worcester,201812,S,R,Q,R,Q,Q,3,2,2
 WOMA201901,12,Boston,WOMA,Worcester,201901,S,Q,Q,R,Q,Q,2,2,2
 WOMA201902,12,Boston,WOMA,Worcester,201902,S,R,Q,R,Q,Q,3,2,2
 WOMA201903,12,Boston,WOMA,Worcester,201903,S,Q,Q,S,Q,Q,3,2,2
+ZTMA201701,12,Boston,ZTMA,Taunton Service Center,201701,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201702,12,Boston,ZTMA,Taunton Service Center,201702,P,S,S,P,P,nan,nan,nan,nan
+ZTMA201703,12,Boston,ZTMA,Taunton Service Center,201703,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201704,12,Boston,ZTMA,Taunton Service Center,201704,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201705,12,Boston,ZTMA,Taunton Service Center,201705,P,S,S,P,Q,nan,nan,nan,nan
+ZTMA201706,12,Boston,ZTMA,Taunton Service Center,201706,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201707,12,Boston,ZTMA,Taunton Service Center,201707,P,S,S,P,S,nan,nan,nan,nan
+ZTMA201708,12,Boston,ZTMA,Taunton Service Center,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201709,12,Boston,ZTMA,Taunton Service Center,201709,P,S,S,P,P,nan,nan,nan,nan
+ZTMA201710,12,Boston,ZTMA,Taunton Service Center,201710,P,nan,nan,P,P,nan,nan,nan,nan
+ZTMA201711,12,Boston,ZTMA,Taunton Service Center,201711,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201712,12,Boston,ZTMA,Taunton Service Center,201712,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201801,12,Boston,ZTMA,Taunton Service Center,201801,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201802,12,Boston,ZTMA,Taunton Service Center,201802,P,S,S,P,R,nan,nan,nan,nan
+ZTMA201803,12,Boston,ZTMA,Taunton Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201804,12,Boston,ZTMA,Taunton Service Center,201804,P,S,S,P,S,nan,nan,nan,nan
+ZTMA201805,12,Boston,ZTMA,Taunton Service Center,201805,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201806,12,Boston,ZTMA,Taunton Service Center,201806,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201807,12,Boston,ZTMA,Taunton Service Center,201807,P,S,S,P,R,nan,nan,nan,nan
+ZTMA201808,12,Boston,ZTMA,Taunton Service Center,201808,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201809,12,Boston,ZTMA,Taunton Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201810,12,Boston,ZTMA,Taunton Service Center,201810,P,S,S,P,P,nan,nan,nan,nan
+ZTMA201811,12,Boston,ZTMA,Taunton Service Center,201811,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201812,12,Boston,ZTMA,Taunton Service Center,201812,P,S,S,P,R,nan,nan,nan,nan
+ZTMA201901,12,Boston,ZTMA,Taunton Service Center,201901,P,S,S,P,S,nan,nan,nan,nan
+ZTMA201902,12,Boston,ZTMA,Taunton Service Center,201902,P,S,nan,P,nan,nan,nan,nan,nan
+ZTMA201903,12,Boston,ZTMA,Taunton Service Center,201903,P,S,nan,P,nan,nan,nan,nan,nan
 AKOH201701,15,Pittsburgh,AKOH,Akron,201701,P,Q,Q,P,Q,Q,1,2,2
 AKOH201702,15,Pittsburgh,AKOH,Akron,201702,P,Q,Q,P,Q,Q,1,2,2
 AKOH201703,15,Pittsburgh,AKOH,Akron,201703,P,P,P,P,Q,Q,1,1,1
@@ -1511,6 +1565,33 @@ SPSC201812,21,Atlanta,SPSC,Spartanburg,201812,S,S,S,S,Q,S,4,4,3
 SPSC201901,21,Atlanta,SPSC,Spartanburg,201901,S,S,S,S,Q,S,4,4,3
 SPSC201902,21,Atlanta,SPSC,Spartanburg,201902,S,S,S,S,Q,S,4,4,3
 SPSC201903,21,Atlanta,SPSC,Spartanburg,201903,S,S,S,S,Q,S,4,4,3
+ZAGA201701,21,Atlanta,ZAGA,Austell Zone,201701,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201702,21,Atlanta,ZAGA,Austell Zone,201702,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201703,21,Atlanta,ZAGA,Austell Zone,201703,P,nan,S,P,nan,nan,nan,nan,nan
+ZAGA201704,21,Atlanta,ZAGA,Austell Zone,201704,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201705,21,Atlanta,ZAGA,Austell Zone,201705,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201706,21,Atlanta,ZAGA,Austell Zone,201706,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201707,21,Atlanta,ZAGA,Austell Zone,201707,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201708,21,Atlanta,ZAGA,Austell Zone,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201709,21,Atlanta,ZAGA,Austell Zone,201709,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201710,21,Atlanta,ZAGA,Austell Zone,201710,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201711,21,Atlanta,ZAGA,Austell Zone,201711,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201712,21,Atlanta,ZAGA,Austell Zone,201712,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201801,21,Atlanta,ZAGA,Austell Zone,201801,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201802,21,Atlanta,ZAGA,Austell Zone,201802,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201803,21,Atlanta,ZAGA,Austell Zone,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201804,21,Atlanta,ZAGA,Austell Zone,201804,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201805,21,Atlanta,ZAGA,Austell Zone,201805,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201806,21,Atlanta,ZAGA,Austell Zone,201806,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201807,21,Atlanta,ZAGA,Austell Zone,201807,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201808,21,Atlanta,ZAGA,Austell Zone,201808,P,S,S,P,P,nan,nan,nan,nan
+ZAGA201809,21,Atlanta,ZAGA,Austell Zone,201809,P,S,S,P,S,nan,nan,nan,nan
+ZAGA201810,21,Atlanta,ZAGA,Austell Zone,201810,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201811,21,Atlanta,ZAGA,Austell Zone,201811,P,nan,nan,P,P,nan,nan,nan,nan
+ZAGA201812,21,Atlanta,ZAGA,Austell Zone,201812,P,S,S,P,R,nan,nan,nan,nan
+ZAGA201901,21,Atlanta,ZAGA,Austell Zone,201901,P,nan,nan,P,S,nan,nan,nan,nan
+ZAGA201902,21,Atlanta,ZAGA,Austell Zone,201902,P,S,nan,P,nan,nan,nan,nan,nan
+ZAGA201903,21,Atlanta,ZAGA,Austell Zone,201903,P,nan,nan,P,P,nan,nan,nan,nan
 ASNC201701,22,Richmond,ASNC,Asheville,201701,S,R,R,R,Q,R,3,3,3
 ASNC201702,22,Richmond,ASNC,Asheville,201702,R,R,Q,R,Q,R,3,2,2
 ASNC201703,22,Richmond,ASNC,Asheville,201703,R,Q,Q,R,Q,Q,2,2,2
@@ -1943,6 +2024,60 @@ WSNC201812,22,Richmond,WSNC,Winston-Salem,201812,Q,Q,Q,Q,R,R,2,2,2
 WSNC201901,22,Richmond,WSNC,Winston-Salem,201901,Q,P,P,P,R,Q,1,2,2
 WSNC201902,22,Richmond,WSNC,Winston-Salem,201902,Q,Q,R,Q,R,Q,2,3,3
 WSNC201903,22,Richmond,WSNC,Winston-Salem,201903,Q,P,P,Q,R,Q,2,2,2
+ZCNC201701,22,Richmond,ZCNC,Charlotte Service Center,201701,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201702,22,Richmond,ZCNC,Charlotte Service Center,201702,P,S,S,P,P,nan,nan,nan,nan
+ZCNC201703,22,Richmond,ZCNC,Charlotte Service Center,201703,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201704,22,Richmond,ZCNC,Charlotte Service Center,201704,P,S,S,P,P,nan,nan,nan,nan
+ZCNC201705,22,Richmond,ZCNC,Charlotte Service Center,201705,P,S,S,P,P,nan,nan,nan,nan
+ZCNC201706,22,Richmond,ZCNC,Charlotte Service Center,201706,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201707,22,Richmond,ZCNC,Charlotte Service Center,201707,P,S,S,Q,nan,nan,nan,nan,nan
+ZCNC201708,22,Richmond,ZCNC,Charlotte Service Center,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201709,22,Richmond,ZCNC,Charlotte Service Center,201709,P,S,S,P,P,nan,nan,nan,nan
+ZCNC201710,22,Richmond,ZCNC,Charlotte Service Center,201710,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201711,22,Richmond,ZCNC,Charlotte Service Center,201711,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201712,22,Richmond,ZCNC,Charlotte Service Center,201712,P,S,S,Q,P,nan,nan,nan,nan
+ZCNC201801,22,Richmond,ZCNC,Charlotte Service Center,201801,P,S,nan,Q,nan,nan,nan,nan,nan
+ZCNC201802,22,Richmond,ZCNC,Charlotte Service Center,201802,P,S,S,P,P,nan,nan,nan,nan
+ZCNC201803,22,Richmond,ZCNC,Charlotte Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201804,22,Richmond,ZCNC,Charlotte Service Center,201804,P,S,nan,Q,nan,nan,nan,nan,nan
+ZCNC201805,22,Richmond,ZCNC,Charlotte Service Center,201805,P,nan,nan,P,P,nan,nan,nan,nan
+ZCNC201806,22,Richmond,ZCNC,Charlotte Service Center,201806,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201807,22,Richmond,ZCNC,Charlotte Service Center,201807,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201808,22,Richmond,ZCNC,Charlotte Service Center,201808,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201809,22,Richmond,ZCNC,Charlotte Service Center,201809,P,S,S,Q,R,nan,nan,nan,nan
+ZCNC201810,22,Richmond,ZCNC,Charlotte Service Center,201810,P,S,nan,P,nan,nan,nan,nan,nan
+ZCNC201811,22,Richmond,ZCNC,Charlotte Service Center,201811,P,S,nan,Q,nan,nan,nan,nan,nan
+ZCNC201812,22,Richmond,ZCNC,Charlotte Service Center,201812,P,S,nan,Q,nan,nan,nan,nan,nan
+ZCNC201901,22,Richmond,ZCNC,Charlotte Service Center,201901,P,nan,nan,Q,nan,nan,nan,nan,nan
+ZCNC201902,22,Richmond,ZCNC,Charlotte Service Center,201902,P,S,S,Q,P,nan,nan,nan,nan
+ZCNC201903,22,Richmond,ZCNC,Charlotte Service Center,201903,P,nan,nan,P,nan,nan,nan,nan,nan
+ZRVA201701,22,Richmond,ZRVA,Richmond Zone,201701,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201702,22,Richmond,ZRVA,Richmond Zone,201702,P,S,S,Q,P,nan,nan,nan,nan
+ZRVA201703,22,Richmond,ZRVA,Richmond Zone,201703,P,nan,nan,R,nan,nan,nan,nan,nan
+ZRVA201704,22,Richmond,ZRVA,Richmond Zone,201704,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201705,22,Richmond,ZRVA,Richmond Zone,201705,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201706,22,Richmond,ZRVA,Richmond Zone,201706,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201707,22,Richmond,ZRVA,Richmond Zone,201707,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201708,22,Richmond,ZRVA,Richmond Zone,201708,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201709,22,Richmond,ZRVA,Richmond Zone,201709,P,S,nan,P,nan,nan,nan,nan,nan
+ZRVA201710,22,Richmond,ZRVA,Richmond Zone,201710,P,S,S,Q,S,nan,nan,nan,nan
+ZRVA201711,22,Richmond,ZRVA,Richmond Zone,201711,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201712,22,Richmond,ZRVA,Richmond Zone,201712,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201801,22,Richmond,ZRVA,Richmond Zone,201801,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201802,22,Richmond,ZRVA,Richmond Zone,201802,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201803,22,Richmond,ZRVA,Richmond Zone,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZRVA201804,22,Richmond,ZRVA,Richmond Zone,201804,P,S,S,Q,P,nan,nan,nan,nan
+ZRVA201805,22,Richmond,ZRVA,Richmond Zone,201805,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201806,22,Richmond,ZRVA,Richmond Zone,201806,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201807,22,Richmond,ZRVA,Richmond Zone,201807,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201808,22,Richmond,ZRVA,Richmond Zone,201808,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201809,22,Richmond,ZRVA,Richmond Zone,201809,P,S,S,Q,P,nan,nan,nan,nan
+ZRVA201810,22,Richmond,ZRVA,Richmond Zone,201810,P,S,S,P,P,nan,nan,nan,nan
+ZRVA201811,22,Richmond,ZRVA,Richmond Zone,201811,P,S,S,Q,P,nan,nan,nan,nan
+ZRVA201812,22,Richmond,ZRVA,Richmond Zone,201812,P,S,nan,Q,nan,nan,nan,nan,nan
+ZRVA201901,22,Richmond,ZRVA,Richmond Zone,201901,P,S,nan,P,nan,nan,nan,nan,nan
+ZRVA201902,22,Richmond,ZRVA,Richmond Zone,201902,P,S,S,Q,P,nan,nan,nan,nan
+ZRVA201903,22,Richmond,ZRVA,Richmond Zone,201903,P,nan,nan,P,nan,nan,nan,nan,nan
 DBFL201701,23,Tampa,DBFL,Daytona Beach,201701,R,S,S,P,R,R,3,4,4
 DBFL201702,23,Tampa,DBFL,Daytona Beach,201702,S,R,R,P,R,R,3,3,3
 DBFL201703,23,Tampa,DBFL,Daytona Beach,201703,R,S,S,Q,R,R,3,4,4
@@ -2348,6 +2483,33 @@ SAFL201812,23,Tampa,SAFL,Sarasota,201812,R,Q,Q,Q,R,Q,2,2,2
 SAFL201901,23,Tampa,SAFL,Sarasota,201901,R,P,Q,P,R,Q,2,2,2
 SAFL201902,23,Tampa,SAFL,Sarasota,201902,R,Q,Q,P,R,Q,2,2,2
 SAFL201903,23,Tampa,SAFL,Sarasota,201903,R,Q,Q,Q,R,Q,2,2,2
+SFSC201701,23,Tampa,SFSC,South Florida Service Cetner,201701,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201702,23,Tampa,SFSC,South Florida Service Cetner,201702,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201703,23,Tampa,SFSC,South Florida Service Cetner,201703,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201704,23,Tampa,SFSC,South Florida Service Cetner,201704,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201705,23,Tampa,SFSC,South Florida Service Cetner,201705,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201706,23,Tampa,SFSC,South Florida Service Cetner,201706,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201707,23,Tampa,SFSC,South Florida Service Cetner,201707,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201708,23,Tampa,SFSC,South Florida Service Cetner,201708,nan,nan,nan,nan,nan,nan,nan,nan,nan
+SFSC201709,23,Tampa,SFSC,South Florida Service Cetner,201709,S,S,S,S,P,nan,nan,nan,nan
+SFSC201710,23,Tampa,SFSC,South Florida Service Cetner,201710,P,nan,nan,R,nan,nan,nan,nan,nan
+SFSC201711,23,Tampa,SFSC,South Florida Service Cetner,201711,P,S,S,R,P,nan,nan,nan,nan
+SFSC201712,23,Tampa,SFSC,South Florida Service Cetner,201712,P,nan,S,S,nan,nan,nan,nan,nan
+SFSC201801,23,Tampa,SFSC,South Florida Service Cetner,201801,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201802,23,Tampa,SFSC,South Florida Service Cetner,201802,P,S,S,S,P,nan,nan,nan,nan
+SFSC201803,23,Tampa,SFSC,South Florida Service Cetner,201803,P,S,S,R,P,nan,nan,nan,nan
+SFSC201804,23,Tampa,SFSC,South Florida Service Cetner,201804,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201805,23,Tampa,SFSC,South Florida Service Cetner,201805,P,S,S,R,P,nan,nan,nan,nan
+SFSC201806,23,Tampa,SFSC,South Florida Service Cetner,201806,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201807,23,Tampa,SFSC,South Florida Service Cetner,201807,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201808,23,Tampa,SFSC,South Florida Service Cetner,201808,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201809,23,Tampa,SFSC,South Florida Service Cetner,201809,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201810,23,Tampa,SFSC,South Florida Service Cetner,201810,P,S,nan,R,nan,nan,nan,nan,nan
+SFSC201811,23,Tampa,SFSC,South Florida Service Cetner,201811,P,S,nan,S,nan,nan,nan,nan,nan
+SFSC201812,23,Tampa,SFSC,South Florida Service Cetner,201812,P,nan,nan,R,nan,nan,nan,nan,nan
+SFSC201901,23,Tampa,SFSC,South Florida Service Cetner,201901,P,nan,nan,R,nan,nan,nan,nan,nan
+SFSC201902,23,Tampa,SFSC,South Florida Service Cetner,201902,P,nan,nan,R,nan,nan,nan,nan,nan
+SFSC201903,23,Tampa,SFSC,South Florida Service Cetner,201903,P,nan,nan,R,nan,nan,nan,nan,nan
 TAFL201701,23,Tampa,TAFL,Tampa,201701,R,S,S,P,R,P,3,4,4
 TAFL201702,23,Tampa,TAFL,Tampa,201702,R,P,Q,P,R,P,2,2,2
 TAFL201703,23,Tampa,TAFL,Tampa,201703,R,P,P,P,R,P,1,2,2
@@ -2375,33 +2537,33 @@ TAFL201812,23,Tampa,TAFL,Tampa,201812,Q,P,P,P,R,P,1,2,2
 TAFL201901,23,Tampa,TAFL,Tampa,201901,R,P,P,P,Q,P,1,1,1
 TAFL201902,23,Tampa,TAFL,Tampa,201902,Q,P,P,P,R,P,1,2,2
 TAFL201903,23,Tampa,TAFL,Tampa,201903,R,P,P,P,Q,P,1,1,1
-TCFL201701,23,Tampa,TCFL,Tampa Counter,201701,,,,,,,,,
-TCFL201702,23,Tampa,TCFL,Tampa Counter,201702,,,,,,,,,
-TCFL201703,23,Tampa,TCFL,Tampa Counter,201703,,,,,,,,,
-TCFL201704,23,Tampa,TCFL,Tampa Counter,201704,,,,,,,,,
-TCFL201705,23,Tampa,TCFL,Tampa Counter,201705,,,,,,,,,
-TCFL201706,23,Tampa,TCFL,Tampa Counter,201706,,,,,,,,,
-TCFL201707,23,Tampa,TCFL,Tampa Counter,201707,,,,,,,,,
-TCFL201708,23,Tampa,TCFL,Tampa Counter,201708,,,,,,,,,
-TCFL201709,23,Tampa,TCFL,Tampa Counter,201709,,,,,,,,,
-TCFL201710,23,Tampa,TCFL,Tampa Counter,201710,,,,,,,,,
-TCFL201711,23,Tampa,TCFL,Tampa Counter,201711,,,,,,,,,
-TCFL201712,23,Tampa,TCFL,Tampa Counter,201712,,,,,,,,,
-TCFL201801,23,Tampa,TCFL,Tampa Counter,201801,,,,,,,,,
-TCFL201802,23,Tampa,TCFL,Tampa Counter,201802,,,,,,,,,
-TCFL201803,23,Tampa,TCFL,Tampa Counter,201803,,,,,,,,,
-TCFL201804,23,Tampa,TCFL,Tampa Counter,201804,,,,,,,,,
-TCFL201805,23,Tampa,TCFL,Tampa Counter,201805,,,,,,,,,
-TCFL201806,23,Tampa,TCFL,Tampa Counter,201806,,,,,,,,,
-TCFL201807,23,Tampa,TCFL,Tampa Counter,201807,,,,,,,,,
-TCFL201808,23,Tampa,TCFL,Tampa Counter,201808,,,,,,,,,
-TCFL201809,23,Tampa,TCFL,Tampa Counter,201809,,,,,,,,,
-TCFL201810,23,Tampa,TCFL,Tampa Counter,201810,,,,,,,,,
-TCFL201811,23,Tampa,TCFL,Tampa Counter,201811,,,,,,,,,
-TCFL201812,23,Tampa,TCFL,Tampa Counter,201812,S,,,S,,,,,
-TCFL201901,23,Tampa,TCFL,Tampa Counter,201901,S,,,R,,,,,
-TCFL201902,23,Tampa,TCFL,Tampa Counter,201902,S,,,S,,,,,
-TCFL201903,23,Tampa,TCFL,Tampa Counter,201903,S,S,S,R,R,,,,
+TCFL201701,23,Tampa,TCFL,Tampa Counter,201701,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201702,23,Tampa,TCFL,Tampa Counter,201702,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201703,23,Tampa,TCFL,Tampa Counter,201703,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201704,23,Tampa,TCFL,Tampa Counter,201704,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201705,23,Tampa,TCFL,Tampa Counter,201705,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201706,23,Tampa,TCFL,Tampa Counter,201706,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201707,23,Tampa,TCFL,Tampa Counter,201707,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201708,23,Tampa,TCFL,Tampa Counter,201708,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201709,23,Tampa,TCFL,Tampa Counter,201709,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201710,23,Tampa,TCFL,Tampa Counter,201710,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201711,23,Tampa,TCFL,Tampa Counter,201711,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201712,23,Tampa,TCFL,Tampa Counter,201712,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201801,23,Tampa,TCFL,Tampa Counter,201801,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201802,23,Tampa,TCFL,Tampa Counter,201802,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201803,23,Tampa,TCFL,Tampa Counter,201803,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201804,23,Tampa,TCFL,Tampa Counter,201804,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201805,23,Tampa,TCFL,Tampa Counter,201805,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201806,23,Tampa,TCFL,Tampa Counter,201806,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201807,23,Tampa,TCFL,Tampa Counter,201807,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201808,23,Tampa,TCFL,Tampa Counter,201808,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201809,23,Tampa,TCFL,Tampa Counter,201809,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201810,23,Tampa,TCFL,Tampa Counter,201810,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201811,23,Tampa,TCFL,Tampa Counter,201811,nan,nan,nan,nan,nan,nan,nan,nan,nan
+TCFL201812,23,Tampa,TCFL,Tampa Counter,201812,S,nan,nan,S,nan,nan,nan,nan,nan
+TCFL201901,23,Tampa,TCFL,Tampa Counter,201901,S,nan,nan,R,nan,nan,nan,nan,nan
+TCFL201902,23,Tampa,TCFL,Tampa Counter,201902,S,nan,nan,S,nan,nan,nan,nan,nan
+TCFL201903,23,Tampa,TCFL,Tampa Counter,201903,S,S,S,R,R,nan,nan,nan,nan
 TLFL201701,23,Tampa,TLFL,Tallahassee,201701,R,S,R,Q,Q,Q,3,3,3
 TLFL201702,23,Tampa,TLFL,Tallahassee,201702,R,S,R,Q,Q,R,3,3,3
 TLFL201703,23,Tampa,TLFL,Tallahassee,201703,R,S,R,Q,Q,Q,3,3,3
@@ -2456,6 +2618,33 @@ WPFL201812,23,Tampa,WPFL,West Palm Beach,201812,S,R,R,Q,R,R,3,3,3
 WPFL201901,23,Tampa,WPFL,West Palm Beach,201901,S,R,R,Q,Q,Q,3,3,3
 WPFL201902,23,Tampa,WPFL,West Palm Beach,201902,S,R,R,Q,R,Q,3,3,3
 WPFL201903,23,Tampa,WPFL,West Palm Beach,201903,S,Q,R,Q,R,Q,3,3,3
+ZTFL201701,23,Tampa,ZTFL,Tampa Service Center,201701,P,S,S,R,Q,nan,nan,nan,nan
+ZTFL201702,23,Tampa,ZTFL,Tampa Service Center,201702,P,nan,nan,R,R,nan,nan,nan,nan
+ZTFL201703,23,Tampa,ZTFL,Tampa Service Center,201703,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201704,23,Tampa,ZTFL,Tampa Service Center,201704,P,S,nan,R,nan,nan,nan,nan,nan
+ZTFL201705,23,Tampa,ZTFL,Tampa Service Center,201705,P,S,S,P,P,nan,nan,nan,nan
+ZTFL201706,23,Tampa,ZTFL,Tampa Service Center,201706,P,S,S,Q,P,nan,nan,nan,nan
+ZTFL201707,23,Tampa,ZTFL,Tampa Service Center,201707,P,nan,nan,Q,P,nan,nan,nan,nan
+ZTFL201708,23,Tampa,ZTFL,Tampa Service Center,201708,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201709,23,Tampa,ZTFL,Tampa Service Center,201709,P,S,S,R,P,nan,nan,nan,nan
+ZTFL201710,23,Tampa,ZTFL,Tampa Service Center,201710,P,S,S,P,S,nan,nan,nan,nan
+ZTFL201711,23,Tampa,ZTFL,Tampa Service Center,201711,P,S,S,Q,S,nan,nan,nan,nan
+ZTFL201712,23,Tampa,ZTFL,Tampa Service Center,201712,P,nan,nan,R,P,nan,nan,nan,nan
+ZTFL201801,23,Tampa,ZTFL,Tampa Service Center,201801,P,nan,S,Q,nan,nan,nan,nan,nan
+ZTFL201802,23,Tampa,ZTFL,Tampa Service Center,201802,P,S,nan,R,nan,nan,nan,nan,nan
+ZTFL201803,23,Tampa,ZTFL,Tampa Service Center,201803,P,S,S,R,P,nan,nan,nan,nan
+ZTFL201804,23,Tampa,ZTFL,Tampa Service Center,201804,P,S,nan,R,nan,nan,nan,nan,nan
+ZTFL201805,23,Tampa,ZTFL,Tampa Service Center,201805,P,S,nan,R,nan,nan,nan,nan,nan
+ZTFL201806,23,Tampa,ZTFL,Tampa Service Center,201806,P,nan,nan,Q,P,nan,nan,nan,nan
+ZTFL201807,23,Tampa,ZTFL,Tampa Service Center,201807,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201808,23,Tampa,ZTFL,Tampa Service Center,201808,P,S,S,Q,P,nan,nan,nan,nan
+ZTFL201809,23,Tampa,ZTFL,Tampa Service Center,201809,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201810,23,Tampa,ZTFL,Tampa Service Center,201810,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201811,23,Tampa,ZTFL,Tampa Service Center,201811,P,nan,nan,Q,P,nan,nan,nan,nan
+ZTFL201812,23,Tampa,ZTFL,Tampa Service Center,201812,P,S,S,Q,S,nan,nan,nan,nan
+ZTFL201901,23,Tampa,ZTFL,Tampa Service Center,201901,P,S,nan,Q,nan,nan,nan,nan,nan
+ZTFL201902,23,Tampa,ZTFL,Tampa Service Center,201902,P,nan,nan,P,P,nan,nan,nan,nan
+ZTFL201903,23,Tampa,ZTFL,Tampa Service Center,201903,P,S,nan,Q,nan,nan,nan,nan,nan
 BEMI201701,31,Chicago,BEMI,Belleville,201701,P,S,S,Q,Q,R,3,3,3
 BEMI201702,31,Chicago,BEMI,Belleville,201702,P,R,R,Q,R,R,3,3,3
 BEMI201703,31,Chicago,BEMI,Belleville,201703,P,R,R,P,Q,R,2,2,2
@@ -2945,7 +3134,7 @@ BRSD201903,33,Minneapolis,BRSD,Brookings,201903,R,S,R,R,Q,R,3,3,3
 DIND201701,33,Minneapolis,DIND,Dickinson,201701,S,S,S,S,R,S,4,4,4
 DIND201702,33,Minneapolis,DIND,Dickinson,201702,S,S,S,S,R,S,4,4,4
 DIND201703,33,Minneapolis,DIND,Dickinson,201703,S,S,S,S,Q,S,4,4,3
-DIND201704,33,Minneapolis,DIND,Dickinson,201704,S,S,S,S,S,S,,,
+DIND201704,33,Minneapolis,DIND,Dickinson,201704,S,S,S,S,S,S,nan,nan,nan
 DIND201705,33,Minneapolis,DIND,Dickinson,201705,S,S,S,S,R,S,4,4,4
 DIND201706,33,Minneapolis,DIND,Dickinson,201706,S,S,S,S,R,S,4,4,4
 DIND201707,33,Minneapolis,DIND,Dickinson,201707,S,S,S,S,R,S,4,4,4
@@ -2966,9 +3155,9 @@ DIND201809,33,Minneapolis,DIND,Dickinson,201809,S,S,S,S,Q,S,4,4,3
 DIND201810,33,Minneapolis,DIND,Dickinson,201810,R,S,S,S,R,S,4,4,4
 DIND201811,33,Minneapolis,DIND,Dickinson,201811,S,S,S,S,Q,S,4,4,3
 DIND201812,33,Minneapolis,DIND,Dickinson,201812,S,S,S,S,R,S,4,4,4
-DIND201901,33,Minneapolis,DIND,Dickinson,201901,R,S,S,,Q,,,,
-DIND201902,33,Minneapolis,DIND,Dickinson,201902,,S,S,,R,,,,
-DIND201903,33,Minneapolis,DIND,Dickinson,201903,,,S,,,,,,
+DIND201901,33,Minneapolis,DIND,Dickinson,201901,R,S,S,nan,Q,nan,nan,nan,nan
+DIND201902,33,Minneapolis,DIND,Dickinson,201902,nan,S,S,nan,R,nan,nan,nan,nan
+DIND201903,33,Minneapolis,DIND,Dickinson,201903,nan,nan,S,nan,nan,nan,nan,nan,nan
 DMIA201701,33,Minneapolis,DMIA,Des Moines,201701,S,P,Q,S,R,P,3,2,2
 DMIA201702,33,Minneapolis,DMIA,Des Moines,201702,R,Q,Q,P,Q,Q,2,2,2
 DMIA201703,33,Minneapolis,DMIA,Des Moines,201703,Q,Q,Q,P,Q,P,1,2,2
@@ -3212,6 +3401,33 @@ MIND201812,33,Minneapolis,MIND,Minot,201812,S,S,R,R,Q,S,4,3,3
 MIND201901,33,Minneapolis,MIND,Minot,201901,S,S,S,S,R,S,4,4,4
 MIND201902,33,Minneapolis,MIND,Minot,201902,S,S,S,Q,R,S,4,4,4
 MIND201903,33,Minneapolis,MIND,Minot,201903,R,S,S,R,Q,S,4,3,3
+MNSC201701,33,Minneapolis,MNSC,Minneapolis Service Center,201701,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201702,33,Minneapolis,MNSC,Minneapolis Service Center,201702,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201703,33,Minneapolis,MNSC,Minneapolis Service Center,201703,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201704,33,Minneapolis,MNSC,Minneapolis Service Center,201704,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201705,33,Minneapolis,MNSC,Minneapolis Service Center,201705,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201706,33,Minneapolis,MNSC,Minneapolis Service Center,201706,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201707,33,Minneapolis,MNSC,Minneapolis Service Center,201707,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201708,33,Minneapolis,MNSC,Minneapolis Service Center,201708,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201709,33,Minneapolis,MNSC,Minneapolis Service Center,201709,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201710,33,Minneapolis,MNSC,Minneapolis Service Center,201710,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201711,33,Minneapolis,MNSC,Minneapolis Service Center,201711,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201712,33,Minneapolis,MNSC,Minneapolis Service Center,201712,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201801,33,Minneapolis,MNSC,Minneapolis Service Center,201801,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201802,33,Minneapolis,MNSC,Minneapolis Service Center,201802,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201803,33,Minneapolis,MNSC,Minneapolis Service Center,201803,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201804,33,Minneapolis,MNSC,Minneapolis Service Center,201804,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201805,33,Minneapolis,MNSC,Minneapolis Service Center,201805,P,S,S,P,P,nan,nan,nan,nan
+MNSC201806,33,Minneapolis,MNSC,Minneapolis Service Center,201806,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201807,33,Minneapolis,MNSC,Minneapolis Service Center,201807,P,S,nan,P,nan,nan,nan,nan,nan
+MNSC201808,33,Minneapolis,MNSC,Minneapolis Service Center,201808,P,S,S,P,P,nan,nan,nan,nan
+MNSC201809,33,Minneapolis,MNSC,Minneapolis Service Center,201809,P,S,S,P,R,nan,nan,nan,nan
+MNSC201810,33,Minneapolis,MNSC,Minneapolis Service Center,201810,P,S,S,P,Q,nan,nan,nan,nan
+MNSC201811,33,Minneapolis,MNSC,Minneapolis Service Center,201811,P,nan,nan,P,nan,nan,nan,nan,nan
+MNSC201812,33,Minneapolis,MNSC,Minneapolis Service Center,201812,P,S,S,P,Q,nan,nan,nan,nan
+MNSC201901,33,Minneapolis,MNSC,Minneapolis Service Center,201901,P,S,nan,P,nan,nan,nan,nan,nan
+MNSC201902,33,Minneapolis,MNSC,Minneapolis Service Center,201902,P,S,S,P,S,nan,nan,nan,nan
+MNSC201903,33,Minneapolis,MNSC,Minneapolis Service Center,201903,P,S,S,P,P,nan,nan,nan,nan
 MNWI201701,33,Minneapolis,MNWI,Manitowoc,201701,Q,R,R,P,R,R,3,3,3
 MNWI201702,33,Minneapolis,MNWI,Manitowoc,201702,Q,R,R,R,Q,R,3,3,3
 MNWI201703,33,Minneapolis,MNWI,Manitowoc,201703,P,R,R,Q,Q,Q,2,2,2
@@ -3415,7 +3631,7 @@ COMO201711,34,St Louis,COMO,"Columbia, MO",201711,S,S,S,S,R,S,4,4,4
 COMO201712,34,St Louis,COMO,"Columbia, MO",201712,S,S,S,S,R,S,4,4,4
 COMO201801,34,St Louis,COMO,"Columbia, MO",201801,S,S,S,S,R,S,4,4,4
 COMO201802,34,St Louis,COMO,"Columbia, MO",201802,S,S,S,S,R,S,4,4,4
-COMO201803,34,St Louis,COMO,"Columbia, MO",201803,S,S,S,S,S,S,,,
+COMO201803,34,St Louis,COMO,"Columbia, MO",201803,S,S,S,S,S,S,nan,nan,nan
 COMO201804,34,St Louis,COMO,"Columbia, MO",201804,S,S,S,S,Q,S,4,4,3
 COMO201805,34,St Louis,COMO,"Columbia, MO",201805,S,S,S,S,R,S,4,4,4
 COMO201806,34,St Louis,COMO,"Columbia, MO",201806,S,S,S,S,R,S,4,4,4
@@ -3671,6 +3887,33 @@ OMNE201812,34,St Louis,OMNE,Omaha,201812,Q,P,P,S,R,R,2,2,2
 OMNE201901,34,St Louis,OMNE,Omaha,201901,Q,P,Q,Q,R,Q,2,2,2
 OMNE201902,34,St Louis,OMNE,Omaha,201902,Q,Q,Q,R,Q,R,2,2,2
 OMNE201903,34,St Louis,OMNE,Omaha,201903,Q,P,Q,R,R,Q,2,2,2
+SLMO201701,34,St Louis,SLMO,St Louis Service Center,201701,P,S,S,P,R,nan,nan,nan,nan
+SLMO201702,34,St Louis,SLMO,St Louis Service Center,201702,P,S,S,P,P,nan,nan,nan,nan
+SLMO201703,34,St Louis,SLMO,St Louis Service Center,201703,P,nan,nan,P,P,nan,nan,nan,nan
+SLMO201704,34,St Louis,SLMO,St Louis Service Center,201704,P,S,S,P,P,nan,nan,nan,nan
+SLMO201705,34,St Louis,SLMO,St Louis Service Center,201705,P,S,S,P,P,nan,nan,nan,nan
+SLMO201706,34,St Louis,SLMO,St Louis Service Center,201706,P,S,S,P,Q,nan,nan,nan,nan
+SLMO201707,34,St Louis,SLMO,St Louis Service Center,201707,P,S,nan,P,nan,nan,nan,nan,nan
+SLMO201708,34,St Louis,SLMO,St Louis Service Center,201708,P,S,S,P,Q,nan,nan,nan,nan
+SLMO201709,34,St Louis,SLMO,St Louis Service Center,201709,P,S,S,P,S,nan,nan,nan,nan
+SLMO201710,34,St Louis,SLMO,St Louis Service Center,201710,P,S,S,P,S,nan,nan,nan,nan
+SLMO201711,34,St Louis,SLMO,St Louis Service Center,201711,P,S,S,P,Q,nan,nan,nan,nan
+SLMO201712,34,St Louis,SLMO,St Louis Service Center,201712,P,S,S,P,R,nan,nan,nan,nan
+SLMO201801,34,St Louis,SLMO,St Louis Service Center,201801,P,S,S,P,P,nan,nan,nan,nan
+SLMO201802,34,St Louis,SLMO,St Louis Service Center,201802,P,S,S,P,P,nan,nan,nan,nan
+SLMO201803,34,St Louis,SLMO,St Louis Service Center,201803,P,S,S,P,P,nan,nan,nan,nan
+SLMO201804,34,St Louis,SLMO,St Louis Service Center,201804,P,S,S,P,R,nan,nan,nan,nan
+SLMO201805,34,St Louis,SLMO,St Louis Service Center,201805,P,S,S,P,P,nan,nan,nan,nan
+SLMO201806,34,St Louis,SLMO,St Louis Service Center,201806,P,S,S,P,P,nan,nan,nan,nan
+SLMO201807,34,St Louis,SLMO,St Louis Service Center,201807,P,S,S,P,R,nan,nan,nan,nan
+SLMO201808,34,St Louis,SLMO,St Louis Service Center,201808,P,S,S,P,P,nan,nan,nan,nan
+SLMO201809,34,St Louis,SLMO,St Louis Service Center,201809,P,S,S,P,P,nan,nan,nan,nan
+SLMO201810,34,St Louis,SLMO,St Louis Service Center,201810,P,S,S,P,P,nan,nan,nan,nan
+SLMO201811,34,St Louis,SLMO,St Louis Service Center,201811,P,S,S,P,P,nan,nan,nan,nan
+SLMO201812,34,St Louis,SLMO,St Louis Service Center,201812,P,S,S,P,P,nan,nan,nan,nan
+SLMO201901,34,St Louis,SLMO,St Louis Service Center,201901,P,S,S,P,P,nan,nan,nan,nan
+SLMO201902,34,St Louis,SLMO,St Louis Service Center,201902,P,S,S,P,P,nan,nan,nan,nan
+SLMO201903,34,St Louis,SLMO,St Louis Service Center,201903,P,S,S,P,P,nan,nan,nan,nan
 SPAR201701,34,St Louis,SPAR,Springdale,201701,Q,R,Q,R,Q,Q,2,2,2
 SPAR201702,34,St Louis,SPAR,Springdale,201702,P,Q,Q,R,Q,Q,2,2,2
 SPAR201703,34,St Louis,SPAR,Springdale,201703,Q,Q,Q,R,Q,Q,2,2,2
@@ -3968,6 +4211,33 @@ DATX201812,36,Dallas,DATX,Dallas (DFW Centre Port),201812,Q,P,P,R,R,P,2,2,2
 DATX201901,36,Dallas,DATX,Dallas (DFW Centre Port),201901,P,P,P,R,R,P,1,2,2
 DATX201902,36,Dallas,DATX,Dallas (DFW Centre Port),201902,P,P,P,Q,R,P,1,2,2
 DATX201903,36,Dallas,DATX,Dallas (DFW Centre Port),201903,P,P,P,R,R,P,1,2,2
+DTSC201701,36,Dallas,DTSC,Dallas Service Center,201701,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201702,36,Dallas,DTSC,Dallas Service Center,201702,P,S,S,P,P,nan,nan,nan,nan
+DTSC201703,36,Dallas,DTSC,Dallas Service Center,201703,P,S,S,P,P,nan,nan,nan,nan
+DTSC201704,36,Dallas,DTSC,Dallas Service Center,201704,P,nan,nan,P,nan,nan,nan,nan,nan
+DTSC201705,36,Dallas,DTSC,Dallas Service Center,201705,P,S,S,P,P,nan,nan,nan,nan
+DTSC201706,36,Dallas,DTSC,Dallas Service Center,201706,P,S,S,P,S,nan,nan,nan,nan
+DTSC201707,36,Dallas,DTSC,Dallas Service Center,201707,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201708,36,Dallas,DTSC,Dallas Service Center,201708,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201709,36,Dallas,DTSC,Dallas Service Center,201709,P,S,S,P,P,nan,nan,nan,nan
+DTSC201710,36,Dallas,DTSC,Dallas Service Center,201710,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201711,36,Dallas,DTSC,Dallas Service Center,201711,P,nan,S,P,nan,nan,nan,nan,nan
+DTSC201712,36,Dallas,DTSC,Dallas Service Center,201712,P,S,S,P,P,nan,nan,nan,nan
+DTSC201801,36,Dallas,DTSC,Dallas Service Center,201801,P,S,S,P,P,nan,nan,nan,nan
+DTSC201802,36,Dallas,DTSC,Dallas Service Center,201802,P,S,S,P,Q,nan,nan,nan,nan
+DTSC201803,36,Dallas,DTSC,Dallas Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201804,36,Dallas,DTSC,Dallas Service Center,201804,P,S,S,P,P,nan,nan,nan,nan
+DTSC201805,36,Dallas,DTSC,Dallas Service Center,201805,P,nan,nan,P,P,nan,nan,nan,nan
+DTSC201806,36,Dallas,DTSC,Dallas Service Center,201806,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201807,36,Dallas,DTSC,Dallas Service Center,201807,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201808,36,Dallas,DTSC,Dallas Service Center,201808,P,nan,nan,P,P,nan,nan,nan,nan
+DTSC201809,36,Dallas,DTSC,Dallas Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201810,36,Dallas,DTSC,Dallas Service Center,201810,P,S,S,P,S,nan,nan,nan,nan
+DTSC201811,36,Dallas,DTSC,Dallas Service Center,201811,P,S,S,P,S,nan,nan,nan,nan
+DTSC201812,36,Dallas,DTSC,Dallas Service Center,201812,P,S,nan,P,nan,nan,nan,nan,nan
+DTSC201901,36,Dallas,DTSC,Dallas Service Center,201901,P,S,S,P,P,nan,nan,nan,nan
+DTSC201902,36,Dallas,DTSC,Dallas Service Center,201902,P,S,S,P,S,nan,nan,nan,nan
+DTSC201903,36,Dallas,DTSC,Dallas Service Center,201903,P,S,S,P,P,nan,nan,nan,nan
 FWTX201701,36,Dallas,FWTX,Fort Worth,201701,S,R,R,S,R,R,4,3,3
 FWTX201702,36,Dallas,FWTX,Fort Worth,201702,S,R,R,S,Q,R,3,3,3
 FWTX201703,36,Dallas,FWTX,Fort Worth,201703,S,Q,Q,S,Q,R,3,2,2
@@ -4184,6 +4454,33 @@ WATX201812,36,Dallas,WATX,Waco,201812,S,S,S,S,R,S,4,4,4
 WATX201901,36,Dallas,WATX,Waco,201901,R,S,S,R,Q,R,3,3,3
 WATX201902,36,Dallas,WATX,Waco,201902,S,S,S,R,Q,R,4,3,3
 WATX201903,36,Dallas,WATX,Waco,201903,S,S,S,R,R,S,4,4,4
+ZSTX201701,36,Dallas,ZSTX,Stafford Zone,201701,P,S,S,P,P,nan,nan,nan,nan
+ZSTX201702,36,Dallas,ZSTX,Stafford Zone,201702,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201703,36,Dallas,ZSTX,Stafford Zone,201703,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201704,36,Dallas,ZSTX,Stafford Zone,201704,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201705,36,Dallas,ZSTX,Stafford Zone,201705,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201706,36,Dallas,ZSTX,Stafford Zone,201706,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201707,36,Dallas,ZSTX,Stafford Zone,201707,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201708,36,Dallas,ZSTX,Stafford Zone,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201709,36,Dallas,ZSTX,Stafford Zone,201709,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201710,36,Dallas,ZSTX,Stafford Zone,201710,P,S,S,P,R,nan,nan,nan,nan
+ZSTX201711,36,Dallas,ZSTX,Stafford Zone,201711,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201712,36,Dallas,ZSTX,Stafford Zone,201712,P,S,S,P,P,nan,nan,nan,nan
+ZSTX201801,36,Dallas,ZSTX,Stafford Zone,201801,P,S,S,P,P,nan,nan,nan,nan
+ZSTX201802,36,Dallas,ZSTX,Stafford Zone,201802,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201803,36,Dallas,ZSTX,Stafford Zone,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201804,36,Dallas,ZSTX,Stafford Zone,201804,P,S,S,P,P,nan,nan,nan,nan
+ZSTX201805,36,Dallas,ZSTX,Stafford Zone,201805,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201806,36,Dallas,ZSTX,Stafford Zone,201806,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201807,36,Dallas,ZSTX,Stafford Zone,201807,P,S,S,P,P,nan,nan,nan,nan
+ZSTX201808,36,Dallas,ZSTX,Stafford Zone,201808,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201809,36,Dallas,ZSTX,Stafford Zone,201809,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201810,36,Dallas,ZSTX,Stafford Zone,201810,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201811,36,Dallas,ZSTX,Stafford Zone,201811,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201812,36,Dallas,ZSTX,Stafford Zone,201812,P,S,nan,P,nan,nan,nan,nan,nan
+ZSTX201901,36,Dallas,ZSTX,Stafford Zone,201901,P,S,S,P,S,nan,nan,nan,nan
+ZSTX201902,36,Dallas,ZSTX,Stafford Zone,201902,P,S,S,P,S,nan,nan,nan,nan
+ZSTX201903,36,Dallas,ZSTX,Stafford Zone,201903,P,S,S,P,P,nan,nan,nan,nan
 ANAK201701,43,Seattle,ANAK,Anchorage,201701,R,Q,P,Q,Q,Q,2,1,2
 ANAK201702,43,Seattle,ANAK,Anchorage,201702,R,Q,Q,R,Q,Q,2,2,2
 ANAK201703,43,Seattle,ANAK,Anchorage,201703,Q,Q,P,R,Q,Q,2,1,2
@@ -4319,6 +4616,33 @@ HOHI201812,43,Seattle,HOHI,Honolulu,201812,P,P,P,R,Q,Q,1,1,1
 HOHI201901,43,Seattle,HOHI,Honolulu,201901,P,P,P,Q,Q,P,1,1,1
 HOHI201902,43,Seattle,HOHI,Honolulu,201902,P,P,P,Q,Q,Q,1,1,1
 HOHI201903,43,Seattle,HOHI,Honolulu,201903,P,P,P,Q,Q,P,1,1,1
+NWSC201701,43,Seattle,NWSC,Northwest Service Center,201701,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201702,43,Seattle,NWSC,Northwest Service Center,201702,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201703,43,Seattle,NWSC,Northwest Service Center,201703,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201704,43,Seattle,NWSC,Northwest Service Center,201704,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201705,43,Seattle,NWSC,Northwest Service Center,201705,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201706,43,Seattle,NWSC,Northwest Service Center,201706,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201707,43,Seattle,NWSC,Northwest Service Center,201707,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201708,43,Seattle,NWSC,Northwest Service Center,201708,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201709,43,Seattle,NWSC,Northwest Service Center,201709,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201710,43,Seattle,NWSC,Northwest Service Center,201710,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201711,43,Seattle,NWSC,Northwest Service Center,201711,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201712,43,Seattle,NWSC,Northwest Service Center,201712,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201801,43,Seattle,NWSC,Northwest Service Center,201801,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201802,43,Seattle,NWSC,Northwest Service Center,201802,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201803,43,Seattle,NWSC,Northwest Service Center,201803,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201804,43,Seattle,NWSC,Northwest Service Center,201804,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201805,43,Seattle,NWSC,Northwest Service Center,201805,P,S,S,P,P,nan,nan,nan,nan
+NWSC201806,43,Seattle,NWSC,Northwest Service Center,201806,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201807,43,Seattle,NWSC,Northwest Service Center,201807,P,S,nan,P,nan,nan,nan,nan,nan
+NWSC201808,43,Seattle,NWSC,Northwest Service Center,201808,P,S,nan,P,nan,nan,nan,nan,nan
+NWSC201809,43,Seattle,NWSC,Northwest Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+NWSC201810,43,Seattle,NWSC,Northwest Service Center,201810,P,S,nan,P,nan,nan,nan,nan,nan
+NWSC201811,43,Seattle,NWSC,Northwest Service Center,201811,P,S,nan,P,nan,nan,nan,nan,nan
+NWSC201812,43,Seattle,NWSC,Northwest Service Center,201812,P,nan,nan,P,P,nan,nan,nan,nan
+NWSC201901,43,Seattle,NWSC,Northwest Service Center,201901,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201902,43,Seattle,NWSC,Northwest Service Center,201902,P,nan,nan,P,nan,nan,nan,nan,nan
+NWSC201903,43,Seattle,NWSC,Northwest Service Center,201903,P,nan,nan,P,nan,nan,nan,nan,nan
 POOR201701,43,Seattle,POOR,Portland Or,201701,P,S,S,P,R,Q,3,4,3
 POOR201702,43,Seattle,POOR,Portland Or,201702,P,P,P,P,Q,Q,1,1,1
 POOR201703,43,Seattle,POOR,Portland Or,201703,P,P,P,P,R,P,1,1,2
@@ -4477,10 +4801,10 @@ AUCO201808,44,Phoenix,AUCO,Aurora,201808,S,P,P,S,R,P,2,2,2
 AUCO201809,44,Phoenix,AUCO,Aurora,201809,S,P,P,S,R,Q,2,2,2
 AUCO201810,44,Phoenix,AUCO,Aurora,201810,S,Q,R,S,R,S,4,3,3
 AUCO201811,44,Phoenix,AUCO,Aurora,201811,S,S,S,S,R,S,4,4,4
-AUCO201812,44,Phoenix,AUCO,Aurora,201812,S,S,S,S,S,S,,,
-AUCO201901,44,Phoenix,AUCO,Aurora,201901,S,S,S,S,S,S,,,
-AUCO201902,44,Phoenix,AUCO,Aurora,201902,S,,,,R,,,,
-AUCO201903,44,Phoenix,AUCO,Aurora,201903,,S,S,,P,,,,
+AUCO201812,44,Phoenix,AUCO,Aurora,201812,S,S,S,S,S,S,nan,nan,nan
+AUCO201901,44,Phoenix,AUCO,Aurora,201901,S,S,S,S,S,S,nan,nan,nan
+AUCO201902,44,Phoenix,AUCO,Aurora,201902,S,nan,nan,nan,R,nan,nan,nan,nan
+AUCO201903,44,Phoenix,AUCO,Aurora,201903,nan,S,S,nan,P,nan,nan,nan,nan
 CSCO201701,44,Phoenix,CSCO,Colorado Springs,201701,S,S,S,S,Q,R,4,4,3
 CSCO201702,44,Phoenix,CSCO,Colorado Springs,201702,R,S,R,R,Q,R,3,3,3
 CSCO201703,44,Phoenix,CSCO,Colorado Springs,201703,R,R,R,R,Q,R,3,3,3
@@ -4508,33 +4832,33 @@ CSCO201812,44,Phoenix,CSCO,Colorado Springs,201812,R,S,S,S,Q,S,4,4,3
 CSCO201901,44,Phoenix,CSCO,Colorado Springs,201901,S,S,S,S,Q,S,4,4,3
 CSCO201902,44,Phoenix,CSCO,Colorado Springs,201902,S,S,S,S,Q,S,4,4,3
 CSCO201903,44,Phoenix,CSCO,Colorado Springs,201903,S,S,S,S,Q,S,4,4,3
-DCCO201701,44,Phoenix,DCCO,Denver Counter,201701,,,,,,,,,
-DCCO201702,44,Phoenix,DCCO,Denver Counter,201702,,,,,,,,,
-DCCO201703,44,Phoenix,DCCO,Denver Counter,201703,,,,,,,,,
-DCCO201704,44,Phoenix,DCCO,Denver Counter,201704,,,,,,,,,
-DCCO201705,44,Phoenix,DCCO,Denver Counter,201705,,,,,,,,,
-DCCO201706,44,Phoenix,DCCO,Denver Counter,201706,,,,,,,,,
-DCCO201707,44,Phoenix,DCCO,Denver Counter,201707,,,,,,,,,
-DCCO201708,44,Phoenix,DCCO,Denver Counter,201708,,,,,,,,,
-DCCO201709,44,Phoenix,DCCO,Denver Counter,201709,,,,,,,,,
-DCCO201710,44,Phoenix,DCCO,Denver Counter,201710,,,,,,,,,
-DCCO201711,44,Phoenix,DCCO,Denver Counter,201711,,,,,,,,,
-DCCO201712,44,Phoenix,DCCO,Denver Counter,201712,,,,,,,,,
-DCCO201801,44,Phoenix,DCCO,Denver Counter,201801,,,,,,,,,
-DCCO201802,44,Phoenix,DCCO,Denver Counter,201802,,,,,,,,,
-DCCO201803,44,Phoenix,DCCO,Denver Counter,201803,,,,,,,,,
-DCCO201804,44,Phoenix,DCCO,Denver Counter,201804,,,,,,,,,
-DCCO201805,44,Phoenix,DCCO,Denver Counter,201805,,,,,,,,,
-DCCO201806,44,Phoenix,DCCO,Denver Counter,201806,,,,,,,,,
-DCCO201807,44,Phoenix,DCCO,Denver Counter,201807,,,,,,,,,
-DCCO201808,44,Phoenix,DCCO,Denver Counter,201808,,,,,,,,,
-DCCO201809,44,Phoenix,DCCO,Denver Counter,201809,S,,,S,,,,,
-DCCO201810,44,Phoenix,DCCO,Denver Counter,201810,R,,,R,,,,,
-DCCO201811,44,Phoenix,DCCO,Denver Counter,201811,P,S,S,R,P,,,,
-DCCO201812,44,Phoenix,DCCO,Denver Counter,201812,S,,,S,,,,,
-DCCO201901,44,Phoenix,DCCO,Denver Counter,201901,S,,,S,,,,,
-DCCO201902,44,Phoenix,DCCO,Denver Counter,201902,S,S,S,S,S,,,,
-DCCO201903,44,Phoenix,DCCO,Denver Counter,201903,S,S,S,R,S,,,,
+DCCO201701,44,Phoenix,DCCO,Denver Counter,201701,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201702,44,Phoenix,DCCO,Denver Counter,201702,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201703,44,Phoenix,DCCO,Denver Counter,201703,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201704,44,Phoenix,DCCO,Denver Counter,201704,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201705,44,Phoenix,DCCO,Denver Counter,201705,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201706,44,Phoenix,DCCO,Denver Counter,201706,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201707,44,Phoenix,DCCO,Denver Counter,201707,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201708,44,Phoenix,DCCO,Denver Counter,201708,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201709,44,Phoenix,DCCO,Denver Counter,201709,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201710,44,Phoenix,DCCO,Denver Counter,201710,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201711,44,Phoenix,DCCO,Denver Counter,201711,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201712,44,Phoenix,DCCO,Denver Counter,201712,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201801,44,Phoenix,DCCO,Denver Counter,201801,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201802,44,Phoenix,DCCO,Denver Counter,201802,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201803,44,Phoenix,DCCO,Denver Counter,201803,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201804,44,Phoenix,DCCO,Denver Counter,201804,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201805,44,Phoenix,DCCO,Denver Counter,201805,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201806,44,Phoenix,DCCO,Denver Counter,201806,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201807,44,Phoenix,DCCO,Denver Counter,201807,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201808,44,Phoenix,DCCO,Denver Counter,201808,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DCCO201809,44,Phoenix,DCCO,Denver Counter,201809,S,nan,nan,S,nan,nan,nan,nan,nan
+DCCO201810,44,Phoenix,DCCO,Denver Counter,201810,R,nan,nan,R,nan,nan,nan,nan,nan
+DCCO201811,44,Phoenix,DCCO,Denver Counter,201811,P,S,S,R,P,nan,nan,nan,nan
+DCCO201812,44,Phoenix,DCCO,Denver Counter,201812,S,nan,nan,S,nan,nan,nan,nan,nan
+DCCO201901,44,Phoenix,DCCO,Denver Counter,201901,S,nan,nan,S,nan,nan,nan,nan,nan
+DCCO201902,44,Phoenix,DCCO,Denver Counter,201902,S,S,S,S,S,nan,nan,nan,nan
+DCCO201903,44,Phoenix,DCCO,Denver Counter,201903,S,S,S,R,S,nan,nan,nan,nan
 DECO201701,44,Phoenix,DECO,Denver,201701,P,P,P,P,R,P,1,1,2
 DECO201702,44,Phoenix,DECO,Denver,201702,P,P,P,P,R,P,1,1,2
 DECO201703,44,Phoenix,DECO,Denver,201703,P,P,P,P,R,P,1,1,2
@@ -4562,10 +4886,37 @@ DECO201812,44,Phoenix,DECO,Denver,201812,S,P,P,S,R,P,2,2,2
 DECO201901,44,Phoenix,DECO,Denver,201901,S,P,P,S,R,P,2,2,2
 DECO201902,44,Phoenix,DECO,Denver,201902,S,P,P,S,R,P,2,2,2
 DECO201903,44,Phoenix,DECO,Denver,201903,S,P,P,S,R,P,2,2,2
+DESC201701,44,Phoenix,DESC,Denver Service Center,201701,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201702,44,Phoenix,DESC,Denver Service Center,201702,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201703,44,Phoenix,DESC,Denver Service Center,201703,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201704,44,Phoenix,DESC,Denver Service Center,201704,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201705,44,Phoenix,DESC,Denver Service Center,201705,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201706,44,Phoenix,DESC,Denver Service Center,201706,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201707,44,Phoenix,DESC,Denver Service Center,201707,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201708,44,Phoenix,DESC,Denver Service Center,201708,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201709,44,Phoenix,DESC,Denver Service Center,201709,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201710,44,Phoenix,DESC,Denver Service Center,201710,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201711,44,Phoenix,DESC,Denver Service Center,201711,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201712,44,Phoenix,DESC,Denver Service Center,201712,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201801,44,Phoenix,DESC,Denver Service Center,201801,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201802,44,Phoenix,DESC,Denver Service Center,201802,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201803,44,Phoenix,DESC,Denver Service Center,201803,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201804,44,Phoenix,DESC,Denver Service Center,201804,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201805,44,Phoenix,DESC,Denver Service Center,201805,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201806,44,Phoenix,DESC,Denver Service Center,201806,nan,nan,nan,nan,nan,nan,nan,nan,nan
+DESC201807,44,Phoenix,DESC,Denver Service Center,201807,S,nan,nan,S,nan,nan,nan,nan,nan
+DESC201808,44,Phoenix,DESC,Denver Service Center,201808,P,nan,nan,P,nan,nan,nan,nan,nan
+DESC201809,44,Phoenix,DESC,Denver Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+DESC201810,44,Phoenix,DESC,Denver Service Center,201810,P,S,S,P,nan,nan,nan,nan,nan
+DESC201811,44,Phoenix,DESC,Denver Service Center,201811,P,nan,nan,P,nan,nan,nan,nan,nan
+DESC201812,44,Phoenix,DESC,Denver Service Center,201812,P,S,nan,P,nan,nan,nan,nan,nan
+DESC201901,44,Phoenix,DESC,Denver Service Center,201901,P,S,nan,P,nan,nan,nan,nan,nan
+DESC201902,44,Phoenix,DESC,Denver Service Center,201902,P,S,nan,P,nan,nan,nan,nan,nan
+DESC201903,44,Phoenix,DESC,Denver Service Center,201903,P,nan,nan,P,S,nan,nan,nan,nan
 EPTX201701,44,Phoenix,EPTX,El Paso,201701,R,S,S,R,Q,R,3,3,3
 EPTX201702,44,Phoenix,EPTX,El Paso,201702,R,S,Q,R,P,R,3,2,2
 EPTX201703,44,Phoenix,EPTX,El Paso,201703,R,S,P,Q,P,R,2,1,2
-EPTX201704,44,Phoenix,EPTX,El Paso,201704,R,S,,R,,R,,,
+EPTX201704,44,Phoenix,EPTX,El Paso,201704,R,S,nan,R,nan,R,nan,nan,nan
 EPTX201705,44,Phoenix,EPTX,El Paso,201705,R,S,S,R,Q,R,3,3,3
 EPTX201706,44,Phoenix,EPTX,El Paso,201706,R,R,R,R,R,R,3,3,3
 EPTX201707,44,Phoenix,EPTX,El Paso,201707,R,S,S,R,Q,R,3,3,3
@@ -4778,6 +5129,60 @@ FRCA201812,46,California,FRCA,Fresno,201812,S,P,P,R,R,R,2,2,2
 FRCA201901,46,California,FRCA,Fresno,201901,S,P,Q,S,R,R,3,3,2
 FRCA201902,46,California,FRCA,Fresno,201902,S,P,Q,R,R,R,3,2,2
 FRCA201903,46,California,FRCA,Fresno,201903,S,Q,Q,R,R,Q,3,3,3
+HACA201701,46,California,HACA,Hayward Service Center,201701,P,S,S,P,R,nan,nan,nan,nan
+HACA201702,46,California,HACA,Hayward Service Center,201702,P,S,S,P,P,nan,nan,nan,nan
+HACA201703,46,California,HACA,Hayward Service Center,201703,P,S,S,P,Q,nan,nan,nan,nan
+HACA201704,46,California,HACA,Hayward Service Center,201704,P,S,S,P,Q,nan,nan,nan,nan
+HACA201705,46,California,HACA,Hayward Service Center,201705,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201706,46,California,HACA,Hayward Service Center,201706,P,S,S,P,Q,nan,nan,nan,nan
+HACA201707,46,California,HACA,Hayward Service Center,201707,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201708,46,California,HACA,Hayward Service Center,201708,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201709,46,California,HACA,Hayward Service Center,201709,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201710,46,California,HACA,Hayward Service Center,201710,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201711,46,California,HACA,Hayward Service Center,201711,P,S,S,P,P,nan,nan,nan,nan
+HACA201712,46,California,HACA,Hayward Service Center,201712,P,S,S,P,R,nan,nan,nan,nan
+HACA201801,46,California,HACA,Hayward Service Center,201801,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201802,46,California,HACA,Hayward Service Center,201802,P,S,S,P,P,nan,nan,nan,nan
+HACA201803,46,California,HACA,Hayward Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201804,46,California,HACA,Hayward Service Center,201804,P,S,S,P,P,nan,nan,nan,nan
+HACA201805,46,California,HACA,Hayward Service Center,201805,P,S,S,P,P,nan,nan,nan,nan
+HACA201806,46,California,HACA,Hayward Service Center,201806,P,S,nan,P,nan,nan,nan,nan,nan
+HACA201807,46,California,HACA,Hayward Service Center,201807,P,S,S,P,Q,nan,nan,nan,nan
+HACA201808,46,California,HACA,Hayward Service Center,201808,P,S,S,P,P,nan,nan,nan,nan
+HACA201809,46,California,HACA,Hayward Service Center,201809,P,S,S,P,R,nan,nan,nan,nan
+HACA201810,46,California,HACA,Hayward Service Center,201810,P,S,S,P,R,nan,nan,nan,nan
+HACA201811,46,California,HACA,Hayward Service Center,201811,P,S,S,P,S,nan,nan,nan,nan
+HACA201812,46,California,HACA,Hayward Service Center,201812,P,S,S,P,P,nan,nan,nan,nan
+HACA201901,46,California,HACA,Hayward Service Center,201901,P,nan,nan,P,nan,nan,nan,nan,nan
+HACA201902,46,California,HACA,Hayward Service Center,201902,P,S,S,P,Q,nan,nan,nan,nan
+HACA201903,46,California,HACA,Hayward Service Center,201903,P,S,S,P,Q,nan,nan,nan,nan
+LACA201701,46,California,LACA,Los Angeles Service Center,201701,P,S,S,P,Q,nan,nan,nan,nan
+LACA201702,46,California,LACA,Los Angeles Service Center,201702,P,S,S,P,Q,nan,nan,nan,nan
+LACA201703,46,California,LACA,Los Angeles Service Center,201703,P,S,S,P,Q,nan,nan,nan,nan
+LACA201704,46,California,LACA,Los Angeles Service Center,201704,P,S,S,P,R,nan,nan,nan,nan
+LACA201705,46,California,LACA,Los Angeles Service Center,201705,P,S,S,P,Q,nan,nan,nan,nan
+LACA201706,46,California,LACA,Los Angeles Service Center,201706,P,S,S,P,P,nan,nan,nan,nan
+LACA201707,46,California,LACA,Los Angeles Service Center,201707,P,S,S,P,Q,nan,nan,nan,nan
+LACA201708,46,California,LACA,Los Angeles Service Center,201708,P,S,S,P,Q,nan,nan,nan,nan
+LACA201709,46,California,LACA,Los Angeles Service Center,201709,P,S,S,P,Q,nan,nan,nan,nan
+LACA201710,46,California,LACA,Los Angeles Service Center,201710,P,S,S,P,S,nan,nan,nan,nan
+LACA201711,46,California,LACA,Los Angeles Service Center,201711,P,S,nan,P,nan,nan,nan,nan,nan
+LACA201712,46,California,LACA,Los Angeles Service Center,201712,P,S,S,P,P,nan,nan,nan,nan
+LACA201801,46,California,LACA,Los Angeles Service Center,201801,P,S,nan,P,nan,nan,nan,nan,nan
+LACA201802,46,California,LACA,Los Angeles Service Center,201802,P,S,S,P,P,nan,nan,nan,nan
+LACA201803,46,California,LACA,Los Angeles Service Center,201803,P,S,nan,P,nan,nan,nan,nan,nan
+LACA201804,46,California,LACA,Los Angeles Service Center,201804,P,S,S,P,P,nan,nan,nan,nan
+LACA201805,46,California,LACA,Los Angeles Service Center,201805,P,nan,S,P,nan,nan,nan,nan,nan
+LACA201806,46,California,LACA,Los Angeles Service Center,201806,P,S,S,P,Q,nan,nan,nan,nan
+LACA201807,46,California,LACA,Los Angeles Service Center,201807,P,S,S,P,R,nan,nan,nan,nan
+LACA201808,46,California,LACA,Los Angeles Service Center,201808,P,S,nan,P,nan,nan,nan,nan,nan
+LACA201809,46,California,LACA,Los Angeles Service Center,201809,P,S,nan,P,nan,nan,nan,nan,nan
+LACA201810,46,California,LACA,Los Angeles Service Center,201810,P,S,S,P,S,nan,nan,nan,nan
+LACA201811,46,California,LACA,Los Angeles Service Center,201811,P,S,S,P,R,nan,nan,nan,nan
+LACA201812,46,California,LACA,Los Angeles Service Center,201812,P,S,S,P,R,nan,nan,nan,nan
+LACA201901,46,California,LACA,Los Angeles Service Center,201901,P,S,S,P,R,nan,nan,nan,nan
+LACA201902,46,California,LACA,Los Angeles Service Center,201902,P,S,S,P,Q,nan,nan,nan,nan
+LACA201903,46,California,LACA,Los Angeles Service Center,201903,P,S,S,P,R,nan,nan,nan,nan
 MACA201701,46,California,MACA,Martinez,201701,S,R,R,S,Q,R,3,3,3
 MACA201702,46,California,MACA,Martinez,201702,S,R,R,S,Q,S,4,3,3
 MACA201703,46,California,MACA,Martinez,201703,S,R,R,S,Q,R,3,3,3
@@ -4871,20 +5276,20 @@ ROCA201709,46,California,ROCA,Rancho Cordova,201709,S,Q,Q,S,Q,Q,3,2,2
 ROCA201710,46,California,ROCA,Rancho Cordova,201710,S,Q,Q,S,R,Q,3,3,3
 ROCA201711,46,California,ROCA,Rancho Cordova,201711,S,Q,Q,S,Q,Q,3,2,2
 ROCA201712,46,California,ROCA,Rancho Cordova,201712,S,Q,Q,S,R,R,3,3,3
-ROCA201801,46,California,ROCA,Rancho Cordova,201801,S,R,Q,,Q,,,,
+ROCA201801,46,California,ROCA,Rancho Cordova,201801,S,R,Q,nan,Q,nan,nan,nan,nan
 ROCA201802,46,California,ROCA,Rancho Cordova,201802,S,R,R,S,R,R,4,3,3
 ROCA201803,46,California,ROCA,Rancho Cordova,201803,S,Q,Q,S,R,Q,3,3,3
 ROCA201804,46,California,ROCA,Rancho Cordova,201804,S,Q,R,S,R,Q,3,3,3
-ROCA201805,46,California,ROCA,Rancho Cordova,201805,S,Q,Q,,R,,,,
+ROCA201805,46,California,ROCA,Rancho Cordova,201805,S,Q,Q,nan,R,nan,nan,nan,nan
 ROCA201806,46,California,ROCA,Rancho Cordova,201806,S,Q,Q,S,R,Q,3,3,3
 ROCA201807,46,California,ROCA,Rancho Cordova,201807,S,Q,Q,S,R,Q,3,3,3
 ROCA201808,46,California,ROCA,Rancho Cordova,201808,S,Q,Q,S,R,Q,3,3,3
 ROCA201809,46,California,ROCA,Rancho Cordova,201809,S,Q,Q,S,R,Q,3,3,3
-ROCA201810,46,California,ROCA,Rancho Cordova,201810,S,Q,Q,,R,,,,
+ROCA201810,46,California,ROCA,Rancho Cordova,201810,S,Q,Q,nan,R,nan,nan,nan,nan
 ROCA201811,46,California,ROCA,Rancho Cordova,201811,S,R,R,S,R,R,4,3,3
-ROCA201812,46,California,ROCA,Rancho Cordova,201812,S,Q,Q,,R,,,,
-ROCA201901,46,California,ROCA,Rancho Cordova,201901,S,R,R,,R,,,,
-ROCA201902,46,California,ROCA,Rancho Cordova,201902,S,Q,Q,,R,,,,
+ROCA201812,46,California,ROCA,Rancho Cordova,201812,S,Q,Q,nan,R,nan,nan,nan,nan
+ROCA201901,46,California,ROCA,Rancho Cordova,201901,S,R,R,nan,R,nan,nan,nan,nan
+ROCA201902,46,California,ROCA,Rancho Cordova,201902,S,Q,Q,nan,R,nan,nan,nan,nan
 ROCA201903,46,California,ROCA,Rancho Cordova,201903,S,Q,Q,S,R,Q,3,3,3
 SACA201701,46,California,SACA,Sacramento,201701,R,P,P,P,R,Q,2,2,2
 SACA201702,46,California,SACA,Sacramento,201702,Q,P,P,P,R,R,2,2,2
@@ -5102,6 +5507,114 @@ VNCA201812,46,California,VNCA,Van Nuys,201812,S,R,R,S,R,R,4,3,3
 VNCA201901,46,California,VNCA,Van Nuys,201901,S,R,R,R,R,R,3,3,3
 VNCA201902,46,California,VNCA,Van Nuys,201902,S,R,R,S,R,R,4,3,3
 VNCA201903,46,California,VNCA,Van Nuys,201903,S,R,R,R,R,R,3,3,3
+ZFCA201701,65,Zone,ZFCA,Fresno Zone,201701,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201702,65,Zone,ZFCA,Fresno Zone,201702,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201703,65,Zone,ZFCA,Fresno Zone,201703,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201704,65,Zone,ZFCA,Fresno Zone,201704,P,S,S,Q,P,nan,nan,nan,nan
+ZFCA201705,65,Zone,ZFCA,Fresno Zone,201705,P,S,nan,Q,nan,nan,nan,nan,nan
+ZFCA201706,65,Zone,ZFCA,Fresno Zone,201706,P,S,S,Q,P,nan,nan,nan,nan
+ZFCA201707,65,Zone,ZFCA,Fresno Zone,201707,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201708,65,Zone,ZFCA,Fresno Zone,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201709,65,Zone,ZFCA,Fresno Zone,201709,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201710,65,Zone,ZFCA,Fresno Zone,201710,P,S,S,P,P,nan,nan,nan,nan
+ZFCA201711,65,Zone,ZFCA,Fresno Zone,201711,P,S,nan,Q,nan,nan,nan,nan,nan
+ZFCA201712,65,Zone,ZFCA,Fresno Zone,201712,P,S,S,P,R,nan,nan,nan,nan
+ZFCA201801,65,Zone,ZFCA,Fresno Zone,201801,P,nan,nan,P,P,nan,nan,nan,nan
+ZFCA201802,65,Zone,ZFCA,Fresno Zone,201802,P,S,S,P,P,nan,nan,nan,nan
+ZFCA201803,65,Zone,ZFCA,Fresno Zone,201803,P,S,S,P,P,nan,nan,nan,nan
+ZFCA201804,65,Zone,ZFCA,Fresno Zone,201804,P,S,S,P,S,nan,nan,nan,nan
+ZFCA201805,65,Zone,ZFCA,Fresno Zone,201805,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201806,65,Zone,ZFCA,Fresno Zone,201806,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201807,65,Zone,ZFCA,Fresno Zone,201807,P,S,S,P,P,nan,nan,nan,nan
+ZFCA201808,65,Zone,ZFCA,Fresno Zone,201808,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201809,65,Zone,ZFCA,Fresno Zone,201809,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201810,65,Zone,ZFCA,Fresno Zone,201810,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201811,65,Zone,ZFCA,Fresno Zone,201811,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201812,65,Zone,ZFCA,Fresno Zone,201812,P,S,nan,P,nan,nan,nan,nan,nan
+ZFCA201901,65,Zone,ZFCA,Fresno Zone,201901,P,S,S,P,P,nan,nan,nan,nan
+ZFCA201902,65,Zone,ZFCA,Fresno Zone,201902,P,S,S,P,R,nan,nan,nan,nan
+ZFCA201903,65,Zone,ZFCA,Fresno Zone,201903,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201701,65,Zone,ZJIL,Joliet Zone,201701,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201702,65,Zone,ZJIL,Joliet Zone,201702,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201703,65,Zone,ZJIL,Joliet Zone,201703,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201704,65,Zone,ZJIL,Joliet Zone,201704,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201705,65,Zone,ZJIL,Joliet Zone,201705,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201706,65,Zone,ZJIL,Joliet Zone,201706,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201707,65,Zone,ZJIL,Joliet Zone,201707,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201708,65,Zone,ZJIL,Joliet Zone,201708,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201709,65,Zone,ZJIL,Joliet Zone,201709,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201710,65,Zone,ZJIL,Joliet Zone,201710,P,S,S,P,R,nan,nan,nan,nan
+ZJIL201711,65,Zone,ZJIL,Joliet Zone,201711,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201712,65,Zone,ZJIL,Joliet Zone,201712,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201801,65,Zone,ZJIL,Joliet Zone,201801,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201802,65,Zone,ZJIL,Joliet Zone,201802,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201803,65,Zone,ZJIL,Joliet Zone,201803,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201804,65,Zone,ZJIL,Joliet Zone,201804,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201805,65,Zone,ZJIL,Joliet Zone,201805,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201806,65,Zone,ZJIL,Joliet Zone,201806,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201807,65,Zone,ZJIL,Joliet Zone,201807,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201808,65,Zone,ZJIL,Joliet Zone,201808,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201809,65,Zone,ZJIL,Joliet Zone,201809,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201810,65,Zone,ZJIL,Joliet Zone,201810,P,S,S,P,P,nan,nan,nan,nan
+ZJIL201811,65,Zone,ZJIL,Joliet Zone,201811,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201812,65,Zone,ZJIL,Joliet Zone,201812,P,S,S,P,S,nan,nan,nan,nan
+ZJIL201901,65,Zone,ZJIL,Joliet Zone,201901,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201902,65,Zone,ZJIL,Joliet Zone,201902,P,S,nan,P,nan,nan,nan,nan,nan
+ZJIL201903,65,Zone,ZJIL,Joliet Zone,201903,P,S,nan,P,nan,nan,nan,nan,nan
+ZSMO201701,65,Zone,ZSMO,Springfield Zone,201701,P,S,S,S,S,nan,nan,nan,nan
+ZSMO201702,65,Zone,ZSMO,Springfield Zone,201702,P,S,S,S,P,nan,nan,nan,nan
+ZSMO201703,65,Zone,ZSMO,Springfield Zone,201703,P,S,S,S,S,nan,nan,nan,nan
+ZSMO201704,65,Zone,ZSMO,Springfield Zone,201704,P,S,S,R,R,nan,nan,nan,nan
+ZSMO201705,65,Zone,ZSMO,Springfield Zone,201705,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201706,65,Zone,ZSMO,Springfield Zone,201706,P,S,S,S,P,nan,nan,nan,nan
+ZSMO201707,65,Zone,ZSMO,Springfield Zone,201707,P,S,S,R,S,nan,nan,nan,nan
+ZSMO201708,65,Zone,ZSMO,Springfield Zone,201708,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201709,65,Zone,ZSMO,Springfield Zone,201709,P,S,nan,R,nan,nan,nan,nan,nan
+ZSMO201710,65,Zone,ZSMO,Springfield Zone,201710,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201711,65,Zone,ZSMO,Springfield Zone,201711,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201712,65,Zone,ZSMO,Springfield Zone,201712,P,S,nan,R,nan,nan,nan,nan,nan
+ZSMO201801,65,Zone,ZSMO,Springfield Zone,201801,P,S,S,R,R,nan,nan,nan,nan
+ZSMO201802,65,Zone,ZSMO,Springfield Zone,201802,P,S,S,R,R,nan,nan,nan,nan
+ZSMO201803,65,Zone,ZSMO,Springfield Zone,201803,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201804,65,Zone,ZSMO,Springfield Zone,201804,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201805,65,Zone,ZSMO,Springfield Zone,201805,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201806,65,Zone,ZSMO,Springfield Zone,201806,P,S,S,R,P,nan,nan,nan,nan
+ZSMO201807,65,Zone,ZSMO,Springfield Zone,201807,P,S,nan,R,nan,nan,nan,nan,nan
+ZSMO201808,65,Zone,ZSMO,Springfield Zone,201808,P,S,S,R,R,nan,nan,nan,nan
+ZSMO201809,65,Zone,ZSMO,Springfield Zone,201809,P,nan,nan,S,nan,nan,nan,nan,nan
+ZSMO201810,65,Zone,ZSMO,Springfield Zone,201810,P,S,S,Q,P,nan,nan,nan,nan
+ZSMO201811,65,Zone,ZSMO,Springfield Zone,201811,P,S,nan,S,nan,nan,nan,nan,nan
+ZSMO201812,65,Zone,ZSMO,Springfield Zone,201812,P,nan,nan,R,nan,nan,nan,nan,nan
+ZSMO201901,65,Zone,ZSMO,Springfield Zone,201901,P,S,nan,R,nan,nan,nan,nan,nan
+ZSMO201902,65,Zone,ZSMO,Springfield Zone,201902,P,S,S,R,S,nan,nan,nan,nan
+ZSMO201903,65,Zone,ZSMO,Springfield Zone,201903,P,nan,nan,R,nan,nan,nan,nan,nan
+ZYOH201701,65,Zone,ZYOH,Youngstown Zone,201701,P,S,S,R,P,nan,nan,nan,nan
+ZYOH201702,65,Zone,ZYOH,Youngstown Zone,201702,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201703,65,Zone,ZYOH,Youngstown Zone,201703,P,nan,nan,R,S,nan,nan,nan,nan
+ZYOH201704,65,Zone,ZYOH,Youngstown Zone,201704,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201705,65,Zone,ZYOH,Youngstown Zone,201705,P,S,S,R,P,nan,nan,nan,nan
+ZYOH201706,65,Zone,ZYOH,Youngstown Zone,201706,P,S,S,Q,S,nan,nan,nan,nan
+ZYOH201707,65,Zone,ZYOH,Youngstown Zone,201707,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201708,65,Zone,ZYOH,Youngstown Zone,201708,P,S,S,Q,P,nan,nan,nan,nan
+ZYOH201709,65,Zone,ZYOH,Youngstown Zone,201709,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201710,65,Zone,ZYOH,Youngstown Zone,201710,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201711,65,Zone,ZYOH,Youngstown Zone,201711,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201712,65,Zone,ZYOH,Youngstown Zone,201712,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201801,65,Zone,ZYOH,Youngstown Zone,201801,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201802,65,Zone,ZYOH,Youngstown Zone,201802,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201803,65,Zone,ZYOH,Youngstown Zone,201803,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201804,65,Zone,ZYOH,Youngstown Zone,201804,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201805,65,Zone,ZYOH,Youngstown Zone,201805,P,S,S,R,P,nan,nan,nan,nan
+ZYOH201806,65,Zone,ZYOH,Youngstown Zone,201806,P,S,S,R,P,nan,nan,nan,nan
+ZYOH201807,65,Zone,ZYOH,Youngstown Zone,201807,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201808,65,Zone,ZYOH,Youngstown Zone,201808,P,S,S,Q,P,nan,nan,nan,nan
+ZYOH201809,65,Zone,ZYOH,Youngstown Zone,201809,P,S,S,Q,S,nan,nan,nan,nan
+ZYOH201810,65,Zone,ZYOH,Youngstown Zone,201810,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201811,65,Zone,ZYOH,Youngstown Zone,201811,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201812,65,Zone,ZYOH,Youngstown Zone,201812,P,S,nan,Q,nan,nan,nan,nan,nan
+ZYOH201901,65,Zone,ZYOH,Youngstown Zone,201901,P,nan,nan,R,P,nan,nan,nan,nan
+ZYOH201902,65,Zone,ZYOH,Youngstown Zone,201902,P,S,nan,R,nan,nan,nan,nan,nan
+ZYOH201903,65,Zone,ZYOH,Youngstown Zone,201903,P,S,nan,R,nan,nan,nan,nan,nan
 CAPR201701,70,Puerto Rico,CAPR,"Carolina, Puerto Rico",201701,R,S,R,R,Q,Q,3,3,3
 CAPR201702,70,Puerto Rico,CAPR,"Carolina, Puerto Rico",201702,R,R,R,R,Q,Q,3,3,3
 CAPR201703,70,Puerto Rico,CAPR,"Carolina, Puerto Rico",201703,R,R,R,R,R,Q,3,3,3
